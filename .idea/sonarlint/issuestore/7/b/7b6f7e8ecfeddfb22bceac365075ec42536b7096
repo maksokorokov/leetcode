@@ -1,0 +1,10 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ªãÌ‹şÿÿÿÿ8ıĞ¡­²1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÁü·8ıĞ¡­²1
+Y
+java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8Ñ¡­²1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ñ¡­²1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ñ¡­²1

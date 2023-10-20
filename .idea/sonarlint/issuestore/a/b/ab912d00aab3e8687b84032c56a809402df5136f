@@ -1,0 +1,17 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "angel" 3 times.(ÙÓùÙ8Œ»¼È¨1
+U
+java:S1854"8Remove this useless assignment to local variable "list".(ÙÓùÙ8Œ»¼È¨1
+F
+java:S1481")Remove this unused "list" local variable.(ÙÓùÙ8œ»¼È¨1
+Q
+java:S1172"/Remove this unused method parameter "anagrams".(‰–õêıÿÿÿÿ8œ»¼È¨1
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8œ»¼È¨1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8œ»¼È¨1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8œ»¼È¨1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8œ»¼È¨1

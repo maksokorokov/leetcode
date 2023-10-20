@@ -1,0 +1,17 @@
+{
+  "a": "string",
+  "b": 1,
+  "c": {
+    "ca": "string2",
+    "cc": {
+      "inner": "abc"
+    }
+  }
+}
+
+{
+  "a": "string",
+  "b": 1,
+  "c.ca" : "string2",
+  "c.cc.inner" : "abc"
+}

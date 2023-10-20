@@ -1,0 +1,10 @@
+
+Q
+java:S1066,"/Merge this if statement with the enclosing one.(ôğşĞÿÿÿÿÿ8Ë¡ñ¡1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8çì¢ñ¡1
+C
+java:S11682"&Return an empty array instead of null.(¥¹ï8‘Ë¡ñ¡1
+C
+java:S1168D"&Return an empty array instead of null.(¥¹ï8‘Ë¡ñ¡1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‘Ë¡ñ¡1
