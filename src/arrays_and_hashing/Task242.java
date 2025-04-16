@@ -55,7 +55,6 @@ public class Task242 {
     }
 
 //    оптимальное решение
-
     public static boolean isAnagram2(String s, String t){
 
         if (s.length() != t.length()) return false;
@@ -72,3 +71,4 @@ public class Task242 {
         return true;
     }
 }
+
